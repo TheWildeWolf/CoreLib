@@ -4,5 +4,6 @@ namespace CoreLib
 {
     public class Class1
     {
+        //demo
     }
 }
